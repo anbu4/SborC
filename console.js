@@ -13,7 +13,9 @@ document.addEventListener('keydown', async function (e) {
                 spa: 'Space.js',
                 laylo: 'BigoVoiceQA.js',
                 enter: 'Enter.js',
-                hotx: 'Hotlife.js'
+                hotx: 'Hotlife.js',
+                spax:'Spax.js',
+                icop:'ImoVoiceQa.js'
             };
 
             if (scripts[value]) {
