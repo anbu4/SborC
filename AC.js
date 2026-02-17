@@ -19,25 +19,13 @@ setInterval(function () {
         document.querySelectorAll('.mb10')[7].click()
         setTimeout(function () {
             document.querySelectorAll('.mb10')[15].click()
-            getOKButton()
-        },400)
+            setTimeout(function(){
+                document.querySelectorAll('.ant-btn-primary')[4].click()
+            },400)
+        },500)
 
     }
-},4000)
-function getOKButton() {
-    const buttons = document.querySelectorAll('button.ant-btn-primary');
-    for (let btn of buttons) {
-        const span = btn.querySelector('span');
-        if (
-            span &&
-            (span.textContent.trim() === 'OK' || span.textContent.trim() === 'ОК') &&
-            !btn.disabled
-        ) {
-            return btn;
-        }
-    }
-    return null;
-}
+},3000)
 document.addEventListener('keydown',function (e) {
       if(e.key == '*'){
           aplo = 0
@@ -45,4 +33,25 @@ document.addEventListener('keydown',function (e) {
       if(e.key == '/'){
           aplo = 1
       }
+      if(e.key === '3'){
+            document.querySelector('.btn-control').click()
+        }
+        if(e.key === '1'){
+            document.querySelectorAll('.mb10')[12].click()
+    }
+    if(e.key ==='2'){
+        document.querySelector('.one-line-btn').click()
+    }
+    if(e.key == '0'){
+        document.querySelectorAll('.mb10')[7].click()
+        setTimeout(function () {
+            document.querySelectorAll('.mb10')[14].click()
+        },400)
+    }
+    if(e.key == '.'){
+        document.querySelectorAll('.mb10')[7].click()
+        setTimeout(function () {
+            document.querySelectorAll('.mb10')[15].click()
+        },400)
+    }
 })
