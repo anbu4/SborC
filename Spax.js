@@ -3,7 +3,7 @@ let ids = input
     .split("\n")
     .map(x => x.trim())
     .filter(x => x !== "");
-let searchNum = 0
+let searchNum = 7
 console.log(ids);
 alert(ids.length)
 const block = document.createElement("div");
@@ -39,7 +39,7 @@ document.querySelector('.user-dropdown-menu').innerText.includes('0007')){
   })();
 setInterval(function () {
     if (ids?.includes(__lastFirstRemark)) {
-        if(searchNum < 5){
+        if(searchNum < 7){
             document.querySelectorAll('.ant-btn-primary')[0].click()
             searchNum = searchNum + 1
         }
@@ -47,11 +47,13 @@ setInterval(function () {
         const btn = document.querySelector('.pos-3-4')
         btn?.click()
     }
-},2000)
+},3000)
   document.addEventListener('keydown',function (e) {
       if(e.key == '*'){
           aplo = 0
-        searchNum = 0
+      }
+      if(e.key == '-'){
+          searchNum = 0
       }
       if(e.key == '/'){
           aplo = 1
