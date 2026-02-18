@@ -3,7 +3,7 @@ let ids = input
     .split("\n")
     .map(x => x.trim())
     .filter(x => x !== "");
-
+let searchNum = 0
 console.log(ids);
 alert(ids.length)
 const block = document.createElement("div");
@@ -39,7 +39,10 @@ document.querySelector('.user-dropdown-menu').innerText.includes('0007')){
   })();
 setInterval(function () {
     if (ids?.includes(__lastFirstRemark)) {
-        console.log('BANNNNNNNNN')
+        if(searchNum <= 5){
+            document.querySelectorAll('.ant-btn-primary')[0].click()
+            searchNum = searchNum +1
+        }
     } else if (aplo == 0) {
         const btn = document.querySelector('.pos-3-4')
         btn?.click()
