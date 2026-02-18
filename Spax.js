@@ -39,9 +39,9 @@ document.querySelector('.user-dropdown-menu').innerText.includes('0007')){
   })();
 setInterval(function () {
     if (ids?.includes(__lastFirstRemark)) {
-        if(searchNum <= 5){
+        if(searchNum < 5){
             document.querySelectorAll('.ant-btn-primary')[0].click()
-            searchNum = searchNum +1
+            searchNum = searchNum + 1
         }
     } else if (aplo == 0) {
         const btn = document.querySelector('.pos-3-4')
@@ -51,6 +51,7 @@ setInterval(function () {
   document.addEventListener('keydown',function (e) {
       if(e.key == '*'){
           aplo = 0
+        searchNum = 0
       }
       if(e.key == '/'){
           aplo = 1
