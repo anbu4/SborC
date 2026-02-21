@@ -18,7 +18,7 @@ setInterval(function () {
     if (ids?.includes(id) && aplo == 0) {
         document.querySelector('.one-line-btn').click()
            setTimeout(function(){
-                document.querySelectorAll('.ant-btn-primary')[4].click()
+                document.querySelectorAll('.ant-btn-primary')[3].click()
             },800)
     }
 },2000)
