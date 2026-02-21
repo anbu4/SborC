@@ -16,16 +16,12 @@ setInterval(function () {
             }
         });
     if (ids?.includes(id) && aplo == 0) {
-        document.querySelectorAll('.mb10')[7].click()
-        setTimeout(function () {
-            document.querySelectorAll('.mb10')[15].click()
-            setTimeout(function(){
+        document.querySelector('.one-line-btn').click()
+           setTimeout(function(){
                 document.querySelectorAll('.ant-btn-primary')[4].click()
-            },400)
-        },500)
-
+            },800)
     }
-},3000)
+},2000)
 document.addEventListener('keydown',function (e) {
       if(e.key == '*'){
           aplo = 0
