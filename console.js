@@ -16,7 +16,8 @@ document.addEventListener('keydown', async function (e) {
                 hotx: 'Hotlife.js',
                 spax:'Spax.js',
                 icop:'ImoVoiceQa.js',
-                ac:'AC.js'
+                ac:'AC.js',
+                acx:'ACX.js'
             };
 
             if (scripts[value]) {
