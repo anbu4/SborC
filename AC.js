@@ -1,4 +1,4 @@
-let input = prompt("QA Voice (c)");
+let input = prompt("QA Voice Ignore");
 let ids = input
     .split("\n")
     .map(x => x.trim())
