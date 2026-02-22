@@ -48,7 +48,7 @@ setInterval(function () {
                 document.querySelectorAll('.ant-btn-primary')[3].click()
             },900)
     }
-},3700)
+},8500)
 
 
 document.addEventListener('keydown',function (e) {
