@@ -157,17 +157,15 @@ function eventVoicelvl3() {
                             const step2 = clickItemByText('Inappropriate behavior');
                             setTimeout(() => {
                                 const step3 = clickItemByText('Insults/Swearing/Flipping the middle finger/Pranking others');
-                                document.querySelector('.ant-radio-input[value="false"]').click()
                                 setTimeout(() => {
-                                     setTimeout(()=>{
-                                        document.querySelector('.ant-radio-input[value="false"]').click()
+                                    document.querySelector('.ant-radio-input[value="false"]').click()
+                                    const elements = document.querySelectorAll('.ant-btn-primary')
                                     elements.forEach(el => {
                                         if (el.textContent.trim() == "OK") {
                                             el.click()
                                         }
                                     })
-                                    },300)
-                                }, 700)
+                                }, 400)
                             }, 200);
                         }, 200);
                     }, 200);
@@ -231,17 +229,14 @@ function eventVoicelvl3() {
                             setTimeout(() => {
                                 const step3 = clickItemByText('Real or virtual currency gambling bets, guiding gambling or promoting gambling websites');
                                 setTimeout(() => {
+                                    document.querySelector('.ant-radio-input[value="false"]').click()
                                     const elements = document.querySelectorAll('.ant-btn-primary')
-                                    setTimeout(()=>{
-                                        document.querySelector('.ant-radio-input[value="false"]').click()
                                     elements.forEach(el => {
                                         if (el.textContent.trim() == "OK") {
                                             el.click()
                                         }
                                     })
-                                    },300)
-                                    
-                                }, 700)
+                                }, 400)
                             }, 200);
                         }, 200);
                     }, 200);
