@@ -1,3 +1,5 @@
+f (document.querySelector('.user-dropdown-menu').innerText.includes('0024') ||
+    document.querySelector('.user-dropdown-menu').innerText.includes('0028')) {
 let inputIgnor = prompt("QA Voice Ignore");
 let IgnorArr = inputIgnor
     .split("\n")
@@ -16,6 +18,12 @@ let CArr = inputC
     .map(x => x.trim())
     .filter(x => x !== "");
 alert(CArr.length)
+let inputD = prompt("QA Voice D");
+let DArr = inputD
+    .split("\n")
+    .map(x => x.trim())
+    .filter(x => x !== "");
+alert(DArr.length)
 
 let aplo = 1
 let id = ''
@@ -32,22 +40,51 @@ setInterval(function () {
           setTimeout(function () {
               document.querySelectorAll('.mb10')[15].click()
               setTimeout(function(){
-                  document.querySelectorAll('.ant-btn-primary')[4].click()
+                  const elements = document.querySelectorAll('.ant-btn-primary')
+                                    elements.forEach(el => {
+                                        if (el.textContent.trim() == "OK") {
+                                            el.click()
+                                        }
+                                    })
               },900)
             },400)
     } 
     if (OtherArr?.includes(id) && aplo == 0) {
           document.querySelectorAll('.mb10')[12].click()
            setTimeout(function(){
-                document.querySelectorAll('.ant-btn-primary')[3].click()
+                const elements = document.querySelectorAll('.ant-btn-primary')
+                                    elements.forEach(el => {
+                                        if (el.textContent.trim() == "OK") {
+                                            el.click()
+                                        }
+                                    })
             },900)
     }
     if (IgnorArr?.includes(id) && aplo == 0) {
         document.querySelector('.one-line-btn').click()
            setTimeout(function(){
-                document.querySelectorAll('.ant-btn-primary')[3].click()
+                const elements = document.querySelectorAll('.ant-btn-primary')
+                                    elements.forEach(el => {
+                                        if (el.textContent.trim() == "OK") {
+                                            el.click()
+                                        }
+                                    })
             },900)
     }
+    if (DArr?.includes(id) && aplo == 0) {
+          document.querySelectorAll('.mb10')[7].click()
+          setTimeout(function () {
+              document.querySelectorAll('.mb10')[14].click()
+              setTimeout(function(){
+                  const elements = document.querySelectorAll('.ant-btn-primary')
+                                    elements.forEach(el => {
+                                        if (el.textContent.trim() == "OK") {
+                                            el.click()
+                                        }
+                                    })
+              },900)
+            },400)
+    } 
 },4500)
 
 
@@ -80,3 +117,5 @@ document.addEventListener('keydown',function (e) {
         },400)
     }
 })
+
+}
