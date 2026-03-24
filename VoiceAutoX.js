@@ -294,8 +294,13 @@ setInterval(function () {
                 }, 200);
     }
     if (ArrIgnor?.includes(__lastFirstRemark)) {
-        const btn = document.querySelector('.pos-3-4')
-        btn?.click()
+        try{
+            const btn = document.querySelector('.pos-3-4')
+            btn?.click()
+        }catch{
+            const btn = document.querySelector('.pos-4-4')
+            btn?.click()
+        }
     }
 }
 },8000)
