@@ -295,11 +295,11 @@ setInterval(function () {
     }
     if (ArrIgnor?.includes(__lastFirstRemark)) {
         try{
-            const btn = document.querySelector('.pos-3-4')
-            btn?.click()
+            const btn1 = document.querySelector('.pos-3-4')
+            btn1?.click()
         }catch{
-            const btn = document.querySelector('.pos-4-4')
-            btn?.click()
+            const btn2 = document.querySelector('.pos-4-4')
+            btn2?.click()
         }
     }
 }
