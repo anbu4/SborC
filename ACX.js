@@ -1,4 +1,5 @@
-if (document.querySelector('.user-dropdown-menu').innerText.includes('0024') ||
+if (document.querySelector('.user-dropdown-menu').innerText.includes('0024')|| 
+    document.querySelector('.user-dropdown-menu').innerText.includes('0037')||
     document.querySelector('.user-dropdown-menu').innerText.includes('0028')) {
 let inputIgnor = prompt("QA Voice Ignore");
 let IgnorArr = inputIgnor
