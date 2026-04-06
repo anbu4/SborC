@@ -19,7 +19,8 @@ document.addEventListener('keydown', async function (e) {
                 ac:'AC.js',
                 acx:'ACX.js',
                 spav:'VoiceAutoX.js',
-                sl:'Alndex.js'
+                sl:'Alndex.js',
+                ob:'ImoVoiceAll.js'
             };
 
             if (scripts[value]) {
