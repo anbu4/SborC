@@ -89,12 +89,28 @@ function BanMoning(){
      document.querySelectorAll('.mb10')[1].click()
         setTimeout(function () {
             document.querySelectorAll('.mb10')[16].click()
+            setTimeout(function(){
+                  const elements = document.querySelectorAll('.ant-btn-primary')
+                                    elements.forEach(el => {
+                                        if (el.textContent.trim() == "OK") {
+                                            el.click()
+                                        }
+                                    })
+              },900)
         },400)
 }
 function BanSexChat(){
     document.querySelectorAll('.mb10')[1].click()
         setTimeout(function () {
             document.querySelectorAll('.mb10')[15].click()
+            setTimeout(function(){
+                  const elements = document.querySelectorAll('.ant-btn-primary')
+                                    elements.forEach(el => {
+                                        if (el.textContent.trim() == "OK") {
+                                            el.click()
+                                        }
+                                    })
+              },900)
         },400)
 }
 function iIgnor(){
