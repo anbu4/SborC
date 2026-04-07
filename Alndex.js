@@ -103,7 +103,7 @@ setInterval(() => {
         if( ArrBan[index]=='Violence and Crime, Drug Trafficking and Abuse, Soft Drugs (Marijuana, Khat, Nitrous Oxide)'){banNarkotikLox()}
         if( ArrBan[index]==''||ArrBan[index]==undefined){FIgnor()}
     }
-},5000);
+},3500);
 }
 function banSwering (){
     const punishButton = document.querySelector('.color_red_live')
