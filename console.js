@@ -9,16 +9,12 @@ document.addEventListener('keydown', async function (e) {
             let value = prompt('Enter command:');
 
             const scripts = {
-                voice: 'BigoVoice.js',
                 spa: 'Space.js',
-                laylo: 'BigoVoiceQA.js',
                 enter: 'Enter.js',
                 hotx: 'Hotlife.js',
                 spax:'Spax.js',
                 icop:'ImoVoiceQa.js',
-                ac:'AC.js',
                 acx:'ACX.js',
-                spav:'VoiceAutoX.js',
                 sl:'Alndex.js',
                 ob:'ImoVoiceAll.js',
                 cl:'AllQa.js'
