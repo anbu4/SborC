@@ -1,6 +1,4 @@
-if (document.querySelector('.user-dropdown-menu').innerText.includes('0024')|| 
-    document.querySelector('.user-dropdown-menu').innerText.includes('0037')||
-    document.querySelector('.user-dropdown-menu').innerText.includes('0006')||
+if (document.querySelector('.user-dropdown-menu').innerText.includes('0006')||
     document.querySelector('.user-dropdown-menu').innerText.includes('0028')) {
 
 let inputId = prompt("QA ID");
