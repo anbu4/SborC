@@ -1,5 +1,3 @@
-if (document.querySelector('.user-dropdown-menu').innerText.includes('0006')||
-    document.querySelector('.user-dropdown-menu').innerText.includes('0028')) {
 
 let inputId = prompt("QA ID");
 const ArrId = inputId
@@ -162,4 +160,4 @@ document.addEventListener('keydown',function (e) {
       }
 })
 
-}
+
