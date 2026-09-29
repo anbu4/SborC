@@ -20,7 +20,7 @@ setInterval(function () {
         });
         if(aplo == 0){
             let index = ArrId.indexOf(id)
-            if(ArrBan[index]=='Abusing/Threatening, Mild Abuse(D)'){BanD()}
+            if(ArrBan[index]=='Abusing/Threatening, Abusing behavior(C)'){BanD()}
             if(ArrBan[index]=='Abusing/Threatening, Severe Abuse(C)'){BanC()}
             if(ArrBan[index]=='Other Language(E)'){BanOther()}
             if(ArrBan[index]=='Personal Info(C)'){BanPersonC()}
@@ -49,7 +49,7 @@ function BanD(){
 function BanC(){
     document.querySelectorAll('.mb10')[7].click()
           setTimeout(function () {
-              document.querySelectorAll('.mb10')[15].click()
+              document.querySelectorAll('.mb10')[14].click()
               setTimeout(function(){
                   const elements = document.querySelectorAll('.ant-btn-primary')
                                     elements.forEach(el => {
