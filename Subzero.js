@@ -1,3 +1,7 @@
+console.log("SUBZERO GITHUB WORKS");
+document.body.setAttribute("data-subzero", "works");
+
+
 setInterval(() => {
     
 const elements = document.querySelectorAll('.ant-select-selection__rendered')
