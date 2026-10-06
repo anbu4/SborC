@@ -11,7 +11,7 @@ document.addEventListener('keydown', async function (e) {
             const scripts = {
                 spa: 'Space.js',
                 enter: 'Enter.js',
-                hotx: 'Hotlife.js',
+                ap: 'apil.js',
                 spax:'Spax.js',
                 icop:'ImoVoiceQa.js',
                 acx:'ACX.js',
