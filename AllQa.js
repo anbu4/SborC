@@ -1,1 +1,260 @@
-const _0x412d89=_0x4df1;function _0x2af8(){const _0x33e21a=['click','includes','Unauthorized\x20Rebroadcasting','Suggestive\x20or\x20Vulgar\x20Speech','Livestreaming\x20While\x20Driving','put','877707DrVVOJ','keydown','transaction','data','.ant-select-selection__rendered','readwrite','.color_red_live','Discussion\x20of\x20Suicide','6591370mwsRPG','15995zDdVht','readonly','innerText','1557604TLkFnK','Explicit\x20Sexual\x20Speech','Female\x20Lying\x20Down','📌\x20__lastFirstRemark:','30px','pop','warn','assign','Delete\x20base\x20enter\x20command\x20Laylo','none','result','628ufCexQ','red','forEach','76280jLKxRm','grey','split','apply','15px','into','objectStoreNames','key','Personal\x20Contact\x20Information\x20Disclosure','.user-dropdown-menu','50%','style','270GzRrAT','Prostitution','Command','zebo','MyDB','.ant-btn-primary','ArrBan','li.ant-cascader-menu-item','.ant-cascader-picker','objectStore','find','backgroundColor','Smoking/Displaying/Promotion\x20Tobacco','33yBKIjS','Enter','querySelectorAll','div','deleteDatabase','querySelector','postId','Gambling\x20Activities','target','ArrId','Real\x20or\x20Virtual\x20Gambling','num','Abusive\x20language','.color-dot','186234ocIrsc','textContent','appendChild','classList','Teg\x20result','.pos-4-4','__lastFirstRemark','log','green','addEventListener','1939NwWDiS','.violation-grades-input','open','trim','Smoking\x20and\x20Drinking\x20Related','Promotion\x20Tobacco','QA\x20ID','Pornographic\x20Speech','writeText','indexOf','get','clipboard','21534ZlYDbA'];_0x2af8=function(){return _0x33e21a;};return _0x2af8();}(function(_0x46ede2,_0xe5cbb2){const _0x1e4663=_0x4df1,_0x30447c=_0x46ede2();while(!![]){try{const _0x2b79a7=parseInt(_0x1e4663(0xb5))/0x1+parseInt(_0x1e4663(0xc1))/0x2+parseInt(_0x1e4663(0x98))/0x3+parseInt(_0x1e4663(0xcc))/0x4*(-parseInt(_0x1e4663(0xbe))/0x5)+-parseInt(_0x1e4663(0xae))/0x6*(-parseInt(_0x1e4663(0xa2))/0x7)+parseInt(_0x1e4663(0xcf))/0x8*(parseInt(_0x1e4663(0xdb))/0x9)+parseInt(_0x1e4663(0xbd))/0xa*(-parseInt(_0x1e4663(0x8a))/0xb);if(_0x2b79a7===_0xe5cbb2)break;else _0x30447c['push'](_0x30447c['shift']());}catch(_0x1470d2){_0x30447c['push'](_0x30447c['shift']());}}}(_0x2af8,0x7ebe0));if(document[_0x412d89(0x8f)](_0x412d89(0xd8))['innerText']['includes']('0003')||document['querySelector']('.user-dropdown-menu')['innerText'][_0x412d89(0xb0)]('0007')){let sloName='',devmod=0x0;const request=indexedDB[_0x412d89(0xa4)](_0x412d89(0x81),0x1);request['onupgradeneeded']=function(_0x57ebc2){const _0x3c8708=_0x412d89,_0x1223a7=_0x57ebc2[_0x3c8708(0x92)][_0x3c8708(0xcb)];!_0x1223a7[_0x3c8708(0xd5)]['contains']('data')&&_0x1223a7['createObjectStore']('data',{'keyPath':'id'});},request['onsuccess']=function(_0x4b3a16){const _0x197e1f=_0x412d89,_0x50cd01=_0x4b3a16[_0x197e1f(0x92)]['result'];loadArray(_0x50cd01,_0x197e1f(0x93),_0x197e1f(0xa8),_0x16ba6d=>{ArrId=_0x16ba6d;}),loadArray(_0x50cd01,_0x197e1f(0x83),'QA\x20Ban',_0x54b7bf=>{ArrBan=_0x54b7bf;}),loadArray(_0x50cd01,'ArrTeg',_0x197e1f(0x9c),_0x1ec398=>{ArrTeg=_0x1ec398;});};function loadArray(_0x3ce43f,_0x2be712,_0xbb0018,_0x1cf24c){const _0x27552a=_0x412d89,_0xb23925=_0x3ce43f[_0x27552a(0xb7)](_0x27552a(0xb8),_0x27552a(0xbf)),_0x48f685=_0xb23925[_0x27552a(0x86)]('data'),_0x481639=_0x48f685[_0x27552a(0xac)](_0x2be712);_0x481639['onsuccess']=function(){const _0x2bee8e=_0x27552a;if(_0x481639[_0x2bee8e(0xcb)])_0x1cf24c(_0x481639['result'][_0x2bee8e(0xb8)]);else{let _0x213532=prompt(_0xbb0018),_0xe4c505=_0x213532[_0x2bee8e(0xd1)](/\r?\n/);alert(_0xe4c505['length']),saveArray(_0x3ce43f,_0x2be712,_0xe4c505),_0x1cf24c(_0xe4c505);}};}function saveArray(_0xd38393,_0x11c44c,_0x4817f4){const _0x345087=_0x412d89,_0x2ae7fd=_0xd38393[_0x345087(0xb7)](_0x345087(0xb8),_0x345087(0xba)),_0x4931e5=_0x2ae7fd[_0x345087(0x86)]('data');_0x4931e5[_0x345087(0xb4)]({'id':_0x11c44c,'data':_0x4817f4});}let interval=0x1194;const block=document['createElement'](_0x412d89(0x8d)),user=document[_0x412d89(0x8f)]('.user-dropdown-menu')[_0x412d89(0xc0)];Object[_0x412d89(0xc8)](block[_0x412d89(0xda)],{'position':'fixed','top':_0x412d89(0xd3),'right':_0x412d89(0xd3),'zIndex':'9999','width':_0x412d89(0xc5),'height':_0x412d89(0xc5),'borderRadius':_0x412d89(0xd9)}),block[_0x412d89(0xda)][_0x412d89(0x88)]=_0x412d89(0xd0);let aplo=0x1;document['body'][_0x412d89(0x9a)](block),(function(){const _0x4edd6c=_0x412d89,_0x1697c7=console[_0x4edd6c(0x9f)];console[_0x4edd6c(0x9f)]=function(..._0xcc49be){const _0x12e47f=_0x4edd6c;try{for(const _0x252372 of _0xcc49be){_0x252372&&typeof _0x252372==='object'&&'postId'in _0x252372&&(window[_0x12e47f(0x9e)]=_0x252372[_0x12e47f(0x90)],console[_0x12e47f(0xc7)](_0x12e47f(0xc4),_0x252372[_0x12e47f(0x90)]));}}catch(_0x15c97a){}_0x1697c7[_0x12e47f(0xd2)](console,_0xcc49be);};}()),document[_0x412d89(0xa1)](_0x412d89(0xb6),function(_0x19c895){const _0x17629b=_0x412d89;_0x19c895['key']=='*'&&(aplo=0x0);_0x19c895[_0x17629b(0xd6)]=='/'&&(aplo=0x1);if(_0x19c895[_0x17629b(0xd6)]=='\x20'){aplo=0x1;let _0x53aac1=ArrId[_0x17629b(0xab)](__lastFirstRemark);alert(__lastFirstRemark+'\x0a'+ArrBan[_0x53aac1]+'\x0a'+ArrTeg[_0x53aac1]);let _0x6aa97c=ArrBan[_0x53aac1]['split'](',')[_0x17629b(0xc6)]()['trim']();navigator[_0x17629b(0xad)][_0x17629b(0xaa)](_0x6aa97c);}_0x19c895[_0x17629b(0xd6)]=='z'&&(sloName+='z');_0x19c895[_0x17629b(0xd6)]=='e'&&(sloName+='e');_0x19c895[_0x17629b(0xd6)]=='b'&&(sloName+='b');if(_0x19c895[_0x17629b(0xd6)]=='o'){sloName+='o';if(sloName==_0x17629b(0xde)){let _0x509529=prompt(_0x17629b(0xdd));_0x509529==_0x17629b(0xd4)&&(interval=prompt(_0x17629b(0x95)),starTimer()),_0x509529=='devmod'&&(devmod=0x1),_0x509529==_0x17629b(0xca)&&(devmod=0x0,block[_0x17629b(0xda)][_0x17629b(0x88)]=_0x17629b(0xd0));}else sloName='';}if(_0x19c895['key']==_0x17629b(0x8b)&&devmod==0x1){const _0x59a06d=document[_0x17629b(0x8f)]('.pos-3-4');_0x59a06d?.[_0x17629b(0xaf)]();const _0x485fca=document[_0x17629b(0x8f)](_0x17629b(0x9d));_0x485fca?.[_0x17629b(0xaf)]();}_0x19c895[_0x17629b(0xd6)]=='`'&&(prompt(_0x17629b(0xc9))=='`'&&indexedDB[_0x17629b(0x8e)](_0x17629b(0x81)));}),setInterval(()=>{const _0x5e15dd=_0x412d89;if(devmod==0x1){let _0x4d4213=ArrId['indexOf'](__lastFirstRemark);ArrBan[_0x4d4213]==''||ArrBan[_0x4d4213]==undefined?block[_0x5e15dd(0xda)]['backgroundColor']=_0x5e15dd(0xa0):block[_0x5e15dd(0xda)][_0x5e15dd(0x88)]=_0x5e15dd(0xcd);}},0x2bc);let timer;starTimer();function starTimer(){clearInterval(timer),timer=setInterval(()=>{const _0x23fad5=_0x4df1;if(aplo==0x0||devmod==0x0){let _0x484534=ArrId[_0x23fad5(0xab)](__lastFirstRemark);ArrBan[_0x484534][_0x23fad5(0xb0)](_0x23fad5(0x96))&&EventBanClick(0x0,'Abusive\x20language/Middle\x20finger','Abusive\x20language');ArrBan[_0x484534][_0x23fad5(0xb0)](_0x23fad5(0xb2))&&EventBanClick(0x0,_0x23fad5(0xa9),'Suggestive\x20or\x20Vulgar\x20Speech');ArrBan[_0x484534][_0x23fad5(0xb0)](_0x23fad5(0x94))&&EventBanClick(0x0,_0x23fad5(0x91),'Real\x20or\x20Virtual\x20Gambling');ArrBan[_0x484534][_0x23fad5(0xb0)](_0x23fad5(0xbc))&&EventBanClick(0x0,_0x23fad5(0xbc));ArrBan[_0x484534][_0x23fad5(0xb0)](_0x23fad5(0xdc))&&EventBanClick(0x0,'Porn\x20Gang/Pornographic\x20traffic\x20introduction/Prostitution');ArrBan[_0x484534][_0x23fad5(0xb0)]('Personal\x20Contact')&&EventBanClick(0x0,'Personal\x20Information\x20Disclosure',_0x23fad5(0xd7));ArrBan[_0x484534][_0x23fad5(0xb0)](_0x23fad5(0xc2))&&EventBanClick(0x0,_0x23fad5(0xa9),_0x23fad5(0xc2));ArrBan[_0x484534][_0x23fad5(0xb0)](_0x23fad5(0xb3))&&EventBanClick(0x0,'Livestreaming\x20While\x20Driving');ArrBan[_0x484534][_0x23fad5(0xb0)](_0x23fad5(0xa7))&&EventBanClick(0x0,_0x23fad5(0xa6),_0x23fad5(0x89));ArrBan[_0x484534]['includes']('Female\x20Lying\x20Down')&&EventBanClick(0x0,'Female\x20Lying\x20Down\x20or\x20Showering',_0x23fad5(0xc3));ArrBan[_0x484534][_0x23fad5(0xb0)](_0x23fad5(0xb1))&&EventBanClick(0x0,'Unauthorized\x20Rebroadcasting');if(ArrBan[_0x484534]=='')FIgnor();else{if(devmod==0x1){let _0x17c4c9=ArrBan[_0x484534]['split'](',')['at'](-0x1)[_0x23fad5(0xa5)]();EventBanClick(0x0,_0x17c4c9);}}}},interval);}}function _0x4df1(_0x4cdda6,_0x53d217){_0x4cdda6=_0x4cdda6-0x81;const _0x2af854=_0x2af8();let _0x4df189=_0x2af854[_0x4cdda6];return _0x4df189;}function EventBanClick(_0x50dcf5,_0x15af79,_0x42cab5,_0x191a29){const _0x1296ef=_0x412d89,_0x4809cc=document[_0x1296ef(0x8f)](_0x1296ef(0xbb));_0x4809cc['click'](),setTimeout(()=>{const _0x5d9e20=_0x1296ef,_0x38461f=document[_0x5d9e20(0x8f)](_0x5d9e20(0x85));_0x38461f[_0x5d9e20(0xaf)](),setTimeout(()=>{const _0x5323e2=_0x1d5692=>{const _0xf953f1=_0x4df1,_0x5319be=Array['from'](document[_0xf953f1(0x8c)](_0xf953f1(0x84)))[_0xf953f1(0x87)](_0x17f79d=>_0x17f79d[_0xf953f1(0x99)][_0xf953f1(0xa5)]()===_0x1d5692&&!_0x17f79d[_0xf953f1(0x9b)]['contains']('ant-cascader-menu-item-disabled'));if(_0x5319be)return _0x5319be[_0xf953f1(0xaf)](),!![];return![];},_0x326541=_0x5323e2(_0x15af79);_0x42cab5!==undefined?setTimeout(()=>{const _0x3fdbaf=_0x5323e2(_0x42cab5);_0x191a29!==undefined?setTimeout(()=>{const _0x237f51=_0x5323e2(_0x191a29);colorDOT(_0x50dcf5);},0xc8):colorDOT(_0x50dcf5);},0xc8):colorDOT(_0x50dcf5);},0xc8);},0xc8);}function colorDOT(_0x4db4ab){setTimeout(()=>{const _0xa431ca=_0x4df1;let _0x190935=document['querySelector'](_0xa431ca(0xa3));_0x190935[_0xa431ca(0x8f)](_0xa431ca(0xb9))[_0xa431ca(0xaf)](),setTimeout(()=>{const _0x4be985=_0xa431ca;document[_0x4be985(0x8c)](_0x4be985(0x97))[_0x4db4ab][_0x4be985(0xaf)](),setTimeout(()=>{const _0x22c0e4=_0x4be985,_0x333447=document[_0x22c0e4(0x8c)](_0x22c0e4(0x82));_0x333447[_0x22c0e4(0xce)](_0xb6d4bf=>{const _0x4877f2=_0x22c0e4;_0xb6d4bf[_0x4877f2(0x99)][_0x4877f2(0xa5)]()=='OK'&&_0xb6d4bf[_0x4877f2(0xaf)]();});},0x44c);},0x12c);},0x2bc);}function FIgnor(){const _0x41f434=_0x412d89,_0x5e40e7=document[_0x41f434(0x8f)]('.pos-3-4');_0x5e40e7?.['click']();const _0x3de097=document[_0x41f434(0x8f)](_0x41f434(0x9d));_0x3de097?.[_0x41f434(0xaf)]();}
+if (document.querySelector('.user-dropdown-menu').innerText.includes('0003') ||
+    document.querySelector('.user-dropdown-menu').innerText.includes('0007')) {
+
+let sloName = ''
+let devmod = 0
+const request = indexedDB.open("MyDB", 1);
+
+request.onupgradeneeded = function (e) {
+    const db = e.target.result;
+
+    if (!db.objectStoreNames.contains("data")) {
+        db.createObjectStore("data", { keyPath: "id" });
+    }
+};
+
+request.onsuccess = function (e) {
+    const db = e.target.result;
+
+    loadArray(db, "ArrId", "QA ID", (arr) => {
+        ArrId = arr;
+    });
+
+    loadArray(db, "ArrBan", "QA Ban", (arr) => {
+        ArrBan = arr;
+    });
+
+    loadArray(db, "ArrTeg", "Teg result", (arr) => {
+        ArrTeg = arr;
+    });
+};
+
+function loadArray(db, key, promptText, callback) {
+    const tx = db.transaction("data", "readonly");
+    const store = tx.objectStore("data");
+
+    const req = store.get(key);
+
+    req.onsuccess = function () {
+
+        if (req.result) {
+            callback(req.result.data);
+        } else {
+
+            let input = prompt(promptText);
+
+            let arr = input.split(/\r?\n/);
+
+            alert(arr.length);
+
+            saveArray(db, key, arr);
+
+            callback(arr);
+        }
+    };
+}
+
+function saveArray(db, key, arr) {
+    const tx = db.transaction("data", "readwrite");
+    const store = tx.objectStore("data");
+
+    store.put({
+        id: key,
+        data: arr
+    });
+}
+
+
+let interval = 4500;
+
+const block = document.createElement("div");
+const user = document.querySelector('.user-dropdown-menu').innerText
+Object.assign(block.style, {
+  position: "fixed",      
+  top: "15px",
+  right: "15px",
+  zIndex: "9999",      
+  width: "30px",
+  height: "30px",
+  borderRadius: "50%",
+});
+block.style.backgroundColor = "grey";
+let aplo = 1
+document.body.appendChild(block);
+(function () {
+    const oldLog = console.log;
+    console.log = function (...args) {
+      try {
+        for (const arg of args) {
+          if (arg && typeof arg === 'object' && 'postId' in arg) {
+            window.__lastFirstRemark = arg.postId;
+            console.warn('📌 __lastFirstRemark:', arg.postId);
+          }
+        }
+      } catch (e) {}
+      oldLog.apply(console, args);
+    };
+})();
+document.addEventListener('keydown',function (e) {
+      if(e.key == '*'){
+          aplo = 0
+      }
+      if(e.key == '/'){
+          aplo = 1
+      }
+      if(e.key == ' '){
+        aplo = 1
+        let index = ArrId.indexOf(__lastFirstRemark)
+        alert(__lastFirstRemark + '\n' + ArrBan[index]+'\n'+ArrTeg[index])
+        let textCop = ArrBan[index].split(",").pop().trim()
+        navigator.clipboard.writeText(textCop)
+      }
+      if(e.key == 'z'){
+         sloName += 'z'
+      }
+      if(e.key == 'e'){
+        sloName += 'e'  
+      }
+      if(e.key == 'b'){
+       sloName += 'b'
+      }
+      if(e.key == 'o'){
+        sloName += 'o'
+       if(sloName == 'zebo'){
+         let comand = prompt('Command')
+        if(comand == 'into'){
+            interval = prompt('num')
+            starTimer()
+        }
+        if(comand == 'devmod'){
+            devmod = 1
+        }
+        if(comand == 'none'){
+            devmod = 0
+            block.style.backgroundColor = "grey";
+        }
+       }else{
+        sloName = ''
+       }
+      }
+      if(e.key == 'Enter'&& devmod == 1 ){
+            const btn = document.querySelector('.pos-3-4')
+    btn?.click()
+    const btn1 = document.querySelector('.pos-4-4')
+    btn1?.click()
+      }
+      if(e.key == '`'){
+        if(prompt('Delete base enter command Laylo') == '`'){
+            indexedDB.deleteDatabase("MyDB");
+        }
+      }
+     
+})
+
+setInterval(()=>{
+    if(devmod == 1){
+    let index = ArrId.indexOf(__lastFirstRemark)
+     if(ArrBan[index]==''||ArrBan[index]==undefined){
+        block.style.backgroundColor = "green";
+    }else{
+        block.style.backgroundColor = "red";
+    }   
+    }
+},700)
+let timer;
+starTimer()
+function starTimer(){
+    clearInterval(timer)
+    timer = setInterval(() => {
+    if(aplo == 0|| devmod == 0){
+        let index = ArrId.indexOf(__lastFirstRemark)
+        if( ArrBan[index].includes('Abusive language')){EventBanClick( 0, 'Abusive language/Middle finger', 'Abusive language')}
+        if( ArrBan[index].includes('Suggestive or Vulgar Speech')){EventBanClick( 0, 'Pornographic Speech', 'Suggestive or Vulgar Speech')}
+        if( ArrBan[index].includes('Real or Virtual Gambling')){EventBanClick( 0, 'Gambling Activities', 'Real or Virtual Gambling')}
+        if( ArrBan[index].includes('Discussion of Suicide')){EventBanClick( 0, 'Discussion of Suicide')}
+        if( ArrBan[index].includes('Prostitution')){EventBanClick( 0, 'Porn Gang/Pornographic traffic introduction/Prostitution')}
+        if( ArrBan[index].includes('Personal Contact')){EventBanClick( 0, 'Personal Information Disclosure', 'Personal Contact Information Disclosure')}
+        if( ArrBan[index].includes('Explicit Sexual Speech')){EventBanClick( 0, 'Pornographic Speech', 'Explicit Sexual Speech')}
+        if( ArrBan[index].includes('Livestreaming While Driving')){EventBanClick( 0, 'Livestreaming While Driving')}
+        if( ArrBan[index].includes('Promotion Tobacco')){EventBanClick( 0, 'Smoking and Drinking Related', 'Smoking/Displaying/Promotion Tobacco')}
+        if( ArrBan[index].includes('Female Lying Down')){EventBanClick( 0, 'Female Lying Down or Showering', 'Female Lying Down')}
+        if( ArrBan[index].includes('Unauthorized Rebroadcasting')){EventBanClick( 0, 'Unauthorized Rebroadcasting')}
+        
+        // if(devmod == 1){
+        //     if( ArrBan[index]){EventBanClick( 0, 'LGBT-Related Content')}
+        // }
+    
+        if( ArrBan[index]==''||ArrBan[index].includes('Not meeting the punish requirements'){FIgnor()}else if  (devmod == 1){
+            let zindex = ArrBan[index].split(',').at(-1).trim()
+            EventBanClick(0,zindex)
+        }
+    }
+},interval);
+}
+}
+function EventBanClick(color, sp1, sp2, sp3) {
+    const punishButton = document.querySelector('.color_red_live')
+    punishButton.click();
+    setTimeout(() => {
+        const cascaderTrigger = document.querySelector('.ant-cascader-picker');
+        cascaderTrigger.click();
+        setTimeout(() => {
+            const clickItemByText = (text) => {
+                const item = Array.from(document.querySelectorAll('li.ant-cascader-menu-item'))
+                    .find(el => el.textContent.trim() === text && !el.classList.contains('ant-cascader-menu-item-disabled'));
+                if (item) {
+                    item.click();
+                    return true;
+                }
+                return false;
+            };
+            const step1 = clickItemByText(sp1);
+            if (sp2 !== undefined) {
+                setTimeout(() => {
+                    const step2 = clickItemByText(sp2);
+                    if (sp3 !== undefined) {
+                        setTimeout(() => {
+                            const step3 = clickItemByText(sp3);
+                            colorDOT(color)
+                        }, 200);
+                    } else {
+                        colorDOT(color)
+                    }
+                }, 200);
+            } else {
+                colorDOT(color)
+            }
+
+
+
+        }, 200);
+    }, 200);
+}
+function colorDOT(colorI) { 
+    setTimeout(() => {
+        let item = document.querySelector('.violation-grades-input')
+        item.querySelector('.ant-select-selection__rendered').click()
+        setTimeout(() => {
+            document.querySelectorAll('.color-dot')[colorI].click()
+            setTimeout(() => {
+                const elements = document.querySelectorAll('.ant-btn-primary')
+                                            elements.forEach(el => {
+                                                if (el.textContent.trim() == "OK") {
+                                                    el.click()
+                                                }
+                                            })
+            },1100);
+        }, 300);
+    }, 700);
+}
+
+
+
+function FIgnor (){
+    const btn = document.querySelector('.pos-3-4')
+    btn?.click()
+    const btn1 = document.querySelector('.pos-4-4')
+    btn1?.click()
+                    
+}
+
