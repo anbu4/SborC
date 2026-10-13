@@ -184,7 +184,7 @@ function starTimer(){
         //     if( ArrBan[index]){EventBanClick( 0, 'LGBT-Related Content')}
         // }
     
-        if( ArrBan[index]==''||ArrBan[index].includes('Not meeting the punish requirements'){FIgnor()}else if  (devmod == 1){
+        if( ArrBan[index]==''||ArrBan[index].includes('Not meeting the punish requirements')){FIgnor()}else if  (devmod == 1){
             let zindex = ArrBan[index].split(',').at(-1).trim()
             EventBanClick(0,zindex)
         }
