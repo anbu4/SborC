@@ -1,7 +1,4 @@
 console.log("SUBZERO GITHUB WORKS");
-console.log('hello yiban')
-document.body.setAttribute("data-subzero", "works");
-
 
 
 setInterval(() => {
@@ -18,12 +15,12 @@ let statusUser = ''
 
 
 if(document.querySelector('.ant-btn-primary').innerText == "Start" || document.querySelector('.ant-btn-danger') == null){
-    statusUser = 'stop'
+    statusUser = 'stop.red'
 }else if(document.querySelector('.ant-btn-danger').innerText == 'Stop'){
-    statusUser = 'start'
+    statusUser = 'start.green'
 }
 
-fetch("https://script.google.com/macros/s/AKfycbzmk3s0GVsAFO2hHxpH1c6fix--QBMzyfQd6yzvsFAcqI9EgRJ-vteYpNrKkb7SGDFdTg/exec", {
+fetch("https://script.google.com/macros/s/AKfycbxcxj86jMn2Bc3wgRI4sWhVfss6xuPA4QrlZ70B2RcV55ZvNhev3kYA-1EH-b4KOODn/exec", {
 method: "POST",
 mode: "no-cors",
 body: JSON.stringify({
